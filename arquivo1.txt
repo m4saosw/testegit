@@ -1,2 +1,3 @@
 conteudo do arquivo1|alteracoes na master e mais desenvolvimento unidas
 desenvolvimento1
+desenvolvimento linha nova
