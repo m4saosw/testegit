@@ -1,5 +1,3 @@
 conteudo do arquivo1|alteracoes na master e mais desenvolvimento unidas
 uma nova linha criada por master
 uma segunda nova linha criada por master
-homologacao 1
-homologacao 2
