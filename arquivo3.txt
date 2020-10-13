@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 b-2
+=======
+b-1
+>>>>>>> ff66a0d... para gerar conflito
 c
